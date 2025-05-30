@@ -1,6 +1,8 @@
 # RFBitBanger_Case_AB2TS
 My version of the rfBitBanger FreeCAD case.
 
+https://github.com/gweep/RFBitBanger_Case_AB2TS/blob/main/IMG_3874.jpg
+
 	Adjusted the size and location of the openings for the LED display and the RF filter modules to better fit my equipment.
 
 	Changed the navigation buttons to triangular shapes to better indicate their function.

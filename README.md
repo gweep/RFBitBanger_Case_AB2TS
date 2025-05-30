@@ -1,8 +1,6 @@
 # RFBitBanger_Case_AB2TS
 My version of the rfBitBanger FreeCAD case.
 
-![image](https://github.com/gweep/AB2TS_NixieClock/blob/main/ScreenShots/Large_With_Date.tiff)
-
 ![image](https://github.com/gweep/RFBitBanger_Case_AB2TS/blob/main/IMG_3874.jpg)
 
 	Adjusted the size and location of the openings for the LED display and the RF filter modules to better fit my equipment.

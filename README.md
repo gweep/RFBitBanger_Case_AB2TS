@@ -23,3 +23,4 @@ My version of the rfBitBanger FreeCAD case.
 * Your milage may vary.  
 
 	
+Thanks to tonsky for the free FiraCode font.  https://github.com/tonsky/FiraCode

@@ -1,8 +1,6 @@
 # RFBitBanger_Case_AB2TS
 My version of the rfBitBanger FreeCAD case.
 
-![image](https://github.com/gweep/RFBitBanger_Case_AB2TS/blob/main/IMG_3874.jpg)
-
 ![image](./IMG_3874.jpg)
 
 

@@ -1,5 +1,5 @@
 # RFBitBanger_Case_AB2TS
-My version of the rfBitBanger FreeCAD case.
+My version of the rfBitBanger FreeCAD case.  Original design by Daniel Marks, KW4TI.  https://github.com/profdc9/RFBitBanger.
 
 ![image](./IMG_3874.jpg)
 
@@ -24,12 +24,12 @@ My version of the rfBitBanger FreeCAD case.
 
 	
 Thanks to tonsky for the free FiraCode font.  https://github.com/tonsky/FiraCode
+
+      
+ 
+This work is licensed under
+Creative Commons BY-NC-SA 4.0 / Attribution-NonCommercial-ShareAlike 4.0 International.  
+https://creativecommons.org/licenses/by-nc-sa/4.0/.  Portions Copyright by Michael Sciascia, 2025.
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-Creative Commons BY-NC-SA 4.0
-Attribution-NonCommercial-ShareAlike 4.0 International
-https://creativecommons.org/licenses/by-nc-sa/4.0/
